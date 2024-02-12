@@ -1,4 +1,4 @@
-# Pommes_mit_ketchup_2
+# El_repo_de_mi
 tarea 2 de la clase de programación de computadoras de la universidad nacional de Colombia grupo 5 periodo 2024-1
 ### -David Alejandro Montes Rodríguez
 
