@@ -1,4 +1,4 @@
-# El_repo_de_mi
+# El_mi_primer_repo
 tarea 2 de la clase de programación de computadoras de la universidad nacional de Colombia grupo 5 periodo 2024-1
 ### -David Alejandro Montes Rodríguez
 
