@@ -6,7 +6,7 @@ El reto 2 consiste en la ejecución del siguiente código:
 
 ` if __name__ == "__main__" :
   print("Hola mundo")
-  en la terminal de python, VS Code y la terminal de windows.
+  en la terminal de python, VS Code y la terminal de windows. `
 
 (adicionalmente la creación de este Readme.md para la documentación)
 
