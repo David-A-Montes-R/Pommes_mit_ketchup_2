@@ -3,7 +3,7 @@ tarea 2 de la clase de programación de computadoras de la universidad nacional 
 ### -David Alejandro Montes Rodríguez
 
 El reto 2 consiste en la ejecución del siguiente código:
-
+holi gatito
 ` if __name__ == "__main__" : `
 
   `print("Hola mundo")`
